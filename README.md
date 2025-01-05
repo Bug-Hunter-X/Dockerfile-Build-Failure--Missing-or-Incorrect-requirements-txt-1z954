@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles where the requirements.txt file is missing or the path to it is incorrect in the Dockerfile.  The solution shows how to correctly specify the requirements file path and ensure the file exists in the context of the build.
